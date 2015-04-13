@@ -170,7 +170,7 @@ h4 > .glyphicon {
 	margin-right: 40px;
 }
 
-.btn-launch {
+#launch-app-client-btn {
 	width: 250px;
 	height: 28px;
 	font-size: 12px;
@@ -178,6 +178,15 @@ h4 > .glyphicon {
 	margin-top: 10px;
 	float: left;
 }
+
+#client-status {
+	float: left;
+	clear: both;
+	padding-top: 10px;
+	padding-left: 6px;
+	margin-bottom: -30px;
+}
+
 .btn-align {
     float: left;
 }
